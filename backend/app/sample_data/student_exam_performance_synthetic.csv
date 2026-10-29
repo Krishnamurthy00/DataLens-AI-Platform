@@ -1,0 +1,103 @@
+Student_ID,Hours_Studied,Attendance_Rate,Sleep_Hours,Practice_Tests_Taken,Parental_Education,Study_Technique,School_Type,Exam_Score
+STU_1001,18.5,92.0,7.5,4,Bachelor's,Active Recall,Public,84.5
+STU_1002,12.0,85.0,6.5,2,High School,Pomodoro,Public,72.0
+STU_1003,24.0,96.5,8.0,6,Master's,Spaced Repetition,Private,91.0
+STU_1004,8.5,74.0,5.5,1,High School,Cramming,Public,58.5
+STU_1005,16.0,88.0,7.0,3,Bachelor's,Pomodoro,Public,79.0
+STU_1006,28.5,98.0,8.5,7,Master's,Active Recall,Private,95.5
+STU_1007,5.0,62.0,5.0,0,None/Other,Cramming,Public,48.0
+STU_1008,19.0,91.0,7.5,4,Bachelor's,Spaced Repetition,Public,83.0
+STU_1009,14.5,84.0,,3,Associate's,Group Study,Private,75.0
+STU_1010,22.0,94.0,8.0,5,Master's,Active Recall,Private,88.5
+STU_1011,9.0,76.5,6.0,1,High School,Pomodoro,Public,62.0
+STU_1012,21.5,93.0,7.5,5,Bachelor's,Spaced Repetition,Public,86.0
+STU_1012,21.5,93.0,7.5,5,Bachelor's,Spaced Repetition,Public,86.0
+STU_1013,11.0,80.0,6.5,2,High School,Cramming,Public,66.5
+STU_1014,26.0,97.0,8.0,6,Master's,Active Recall,Private,93.0
+STU_1015,15.0,,7.0,3,Bachelor's,Pomodoro,Public,77.5
+STU_1016,7.5,68.0,5.5,1,None/Other,Cramming,Public,54.0
+STU_1017,20.0,92.5,7.5,4,Bachelor's,Spaced Repetition,Public,85.0
+STU_1018,17.5,89.0,7.0,4,Associate's,Group Study,Private,81.0
+STU_1019,13.0,82.0,6.5,2,,Pomodoro,Public,71.5
+STU_1020,31.0,99.0,8.5,8,Master's,Active Recall,Private,98.0
+STU_1021,6.0,65.0,5.0,0,High School,Cramming,Public,51.0
+STU_1022,23.5,95.0,8.0,5,Bachelor's,Spaced Repetition,Private,89.5
+STU_1023,16.5,87.0,7.0,3,Associate's,Pomodoro,Public,78.0
+STU_1024,10.5,78.0,6.0,2,High School,Group Study,Public,65.0
+STU_1025,25.0,96.0,8.0,6,Master's,Active Recall,Private,92.0
+STU_1025,25.0,96.0,8.0,6,Master's,Active Recall,Private,92.0
+STU_1026,18.0,90.5,7.5,4,Bachelor's,Spaced Repetition,Public,82.5
+STU_1027,,79.0,6.5,2,Associate's,Pomodoro,Public,69.0
+STU_1028,27.0,97.5,8.5,7,Master's,Active Recall,Private,94.5
+STU_1029,8.0,71.0,5.5,1,None/Other,Cramming,Public,56.0
+STU_1030,19.5,92.0,7.5,4,Bachelor's,Spaced Repetition,Public,84.0
+STU_1031,14.0,83.5,6.5,3,High School,Group Study,Public,73.5
+STU_1032,22.5,94.5,8.0,5,Master's,Active Recall,Private,89.0
+STU_1033,11.5,81.0,6.5,2,Associate's,Pomodoro,Public,68.0
+STU_1034,98.0,86.0,7.0,3,Bachelor's,Active Recall,Public,79.5
+STU_1035,16.0,87.5,7.0,3,Bachelor's,Pomodoro,Public,78.5
+STU_1036,7.0,66.0,5.0,0,None/Other,Cramming,Public,52.5
+STU_1037,20.5,93.0,7.5,5,Master's,Spaced Repetition,Private,87.0
+STU_1038,15.5,86.0,7.0,3,Bachelor's,Group Study,Public,76.5
+STU_1039,12.5,82.5,6.5,2,,Pomodoro,Public,70.0
+STU_1040,29.0,98.5,8.5,7,Master's,Active Recall,Private,96.0
+STU_1041,6.5,64.0,5.0,0,High School,Cramming,Public,49.5
+STU_1042,24.5,95.5,8.0,6,Bachelor's,Spaced Repetition,Private,90.5
+STU_1043,17.0,88.5,7.0,4,Associate's,Pomodoro,Public,80.0
+STU_1044,10.0,77.0,6.0,1,High School,Group Study,Public,63.5
+STU_1045,26.5,97.0,8.5,6,Master's,Active Recall,Private,93.5
+STU_1046,18.5,,7.5,4,Bachelor's,Spaced Repetition,Public,83.5
+STU_1047,13.5,83.0,6.5,2,High School,Pomodoro,Public,72.5
+STU_1048,21.0,93.5,7.5,5,Master's,Active Recall,Private,87.5
+STU_1049,8.5,72.5,5.5,1,None/Other,Cramming,Public,57.0
+STU_1050,30.0,99.0,8.5,8,Master's,Active Recall,Private,97.0
+STU_1051,15.0,86.5,7.0,3,Bachelor's,Pomodoro,Public,77.0
+STU_1052,9.5,75.0,6.0,1,High School,Group Study,Public,61.5
+STU_1053,23.0,94.0,8.0,5,Master's,Spaced Repetition,Private,88.0
+STU_1054,16.5,88.0,,3,Associate's,Pomodoro,Public,78.5
+STU_1055,7.5,67.0,5.5,1,None/Other,Cramming,Public,53.5
+STU_1056,25.5,96.5,8.5,6,Bachelor's,Active Recall,Private,92.5
+STU_1057,19.0,91.5,7.5,4,Bachelor's,Spaced Repetition,Public,84.0
+STU_1058,11.0,79.5,6.5,2,High School,Pomodoro,Public,67.0
+STU_1059,28.0,98.0,8.5,7,Master's,Active Recall,Private,95.0
+STU_1060,5.5,63.0,5.0,0,None/Other,Cramming,Public,47.5
+STU_1061,22.0,94.0,8.0,5,Bachelor's,Spaced Repetition,Private,88.5
+STU_1062,17.5,89.5,7.0,4,Associate's,Group Study,Public,81.5
+STU_1063,12.0,81.5,6.5,2,,Pomodoro,Public,69.5
+STU_1064,27.5,97.5,8.5,7,Master's,Active Recall,Private,94.0
+STU_1065,8.0,70.0,5.5,1,High School,Cramming,Public,55.0
+STU_1066,20.0,92.0,7.5,4,Bachelor's,Spaced Repetition,Public,85.5
+STU_1067,14.5,84.5,7.0,3,Associate's,Pomodoro,Public,75.5
+STU_1068,10.0,76.0,6.0,1,High School,Group Study,Public,64.0
+STU_1069,24.0,95.0,8.0,6,Master's,Active Recall,Private,91.5
+STU_1070,18.0,90.0,7.5,4,Bachelor's,Spaced Repetition,Public,83.0
+STU_1071,13.0,82.5,6.5,2,High School,Pomodoro,Public,71.0
+STU_1072,21.5,93.5,7.5,5,Master's,Active Recall,Private,88.0
+STU_1073,7.0,65.5,5.0,0,None/Other,Cramming,Public,50.5
+STU_1074,29.5,98.5,8.5,8,Master's,Active Recall,Private,96.5
+STU_1075,16.0,87.0,7.0,3,Bachelor's,Pomodoro,Public,78.0
+STU_1076,9.0,74.5,6.0,1,High School,Group Study,Public,60.5
+STU_1077,23.5,95.0,8.0,5,Bachelor's,Spaced Repetition,Private,89.0
+STU_1078,,86.0,7.0,3,Associate's,Pomodoro,Public,76.0
+STU_1079,6.5,64.5,5.0,0,None/Other,Cramming,Public,49.0
+STU_1080,26.0,97.0,8.5,6,Master's,Active Recall,Private,93.0
+STU_1081,19.5,92.0,7.5,4,Bachelor's,Spaced Repetition,Public,85.0
+STU_1082,11.5,80.5,6.5,2,High School,Pomodoro,Public,68.5
+STU_1083,28.5,98.0,8.5,7,Master's,Active Recall,Private,95.5
+STU_1084,5.0,61.5,5.0,0,None/Other,Cramming,Public,46.0
+STU_1085,22.5,94.5,8.0,5,Bachelor's,Spaced Repetition,Private,89.5
+STU_1086,17.0,88.5,7.0,4,Associate's,Group Study,Public,80.5
+STU_1087,12.5,82.0,6.5,2,,Pomodoro,Public,70.5
+STU_1088,27.0,97.0,8.5,7,Master's,Active Recall,Private,94.0
+STU_1089,8.5,73.0,5.5,1,High School,Cramming,Public,57.5
+STU_1090,20.5,93.0,7.5,4,Bachelor's,Spaced Repetition,Public,86.0
+STU_1091,15.0,,7.0,3,Associate's,Pomodoro,Public,77.0
+STU_1092,10.5,77.5,6.0,2,High School,Group Study,Public,64.5
+STU_1093,25.0,96.0,8.0,6,Master's,Active Recall,Private,92.0
+STU_1094,18.5,90.5,7.5,4,Bachelor's,Spaced Repetition,Public,83.5
+STU_1095,13.5,83.5,6.5,2,High School,Pomodoro,Public,72.0
+STU_1096,22.0,94.0,8.0,5,Master's,Active Recall,Private,88.5
+STU_1097,7.5,68.5,5.5,1,None/Other,Cramming,Public,53.0
+STU_1098,30.5,99.0,8.5,8,Master's,Active Recall,Private,97.5
+STU_1099,16.5,87.5,7.0,3,Bachelor's,Pomodoro,Public,79.0
+STU_1100,9.5,75.5,6.0,1,High School,Group Study,Public,62.5
